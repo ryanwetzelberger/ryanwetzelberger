@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on network automation with [Nornir](https://github.com/nornir-automation/nornir)
+- 🌱 I’m currently learning Python packaging and classes.  Also, dabbling with k8s using kubeadm.
+- 📫 How to reach me: ryan@wetzellabs.com
+- ⚡ Fun fact: I am exploring how to build more automation in my home with k8s and other projects.
